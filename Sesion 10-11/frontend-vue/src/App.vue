@@ -12,6 +12,12 @@
           <li class="nav-item">
             <router-link to="/RegistroPersona" class="nav-link">Gestión Personas</router-link>            
           </li>
+          <li class="nav-item">
+            <router-link to="/RegistroPersona" class="nav-link">Gestión Personas</router-link>            
+          </li>
+          <li class="nav-item">
+            <router-link to="/RegistroPersona" class="nav-link">Gestión Personas</router-link>            
+          </li>
         </ul>
         <form class="d-flex">
           <input class="form-control me-sm-2" type="text" placeholder="Search">
